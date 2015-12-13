@@ -25,5 +25,8 @@
         <module name="creational-patterns" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="creational-patterns" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
